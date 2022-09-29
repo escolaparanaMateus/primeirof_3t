@@ -1,3 +1,7 @@
-# primeirof_3t
+# terceiro trimestre 
 
-## Mateus Guanho Nr: 22
+## indentificação
+Mateus Guanho - Nr: 22
+
+##  Conteúdo
+HTML, CSS E   javaScript
