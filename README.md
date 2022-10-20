@@ -1,7 +1,7 @@
-# terceiro trimestre 
+# Terceiro Trimestre
 
-## indentificação
-Mateus Guanho - Nr: 22
+## Identificação
+Jesus Maringá - Nr. 50
 
-##  Conteúdo
-HTML, CSS E   javaScript
+## Conteúdo
+HTML, CSS e javaScript
