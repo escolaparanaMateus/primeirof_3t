@@ -1,13 +1,5 @@
-# terceiro trimestre 
+# terceiro trimestre
 
-## 
+nome: joao mateus s. pereira n:11
 
-# MATEUS GUANHO  N: 22
-
-  ##
-  
-# conteudo 
-css html javascript
-
-  
-
+conteudo: HTML, CSS e javaScript.
